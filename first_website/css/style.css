@@ -1,0 +1,133 @@
+
+div#content div.leftbox2{
+	background-color: red;
+	vertical-align: top;
+	color: #000;
+}
+
+
+div#content div.annonce2{
+	background-color: red;
+	width: 100%;
+	margin:8px ;
+}
+
+h1{
+	color: #000;
+}
+
+
+div#content div.annonce{
+	background-color: red;
+	width: 100%;
+	margin:8px ;
+}
+
+div#content div{
+	display: inline-block;
+	width: 48%;
+}
+
+div#content div.leftbox{
+	background-color: 
+	vertical-align: top;
+	color: #000;
+}
+
+div#content div h1, p iframe{
+	margin: 25px;
+}
+
+div#content div h1, p, iframe {
+	margin: 50px
+}
+
+
+div#content div.rightbox{
+
+}
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+nav.menu-nav ul li.btn a{
+	color: blue;
+	text-decoration: none;
+	padding: 10px;
+	background-color: red;
+
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: red;
+	background-color: #3E3E3E;
+	transition: 0.3s all;
+}
+
+header{
+
+}
+
+footer{
+
+}
+
+header{
+	font-size: 15px;
+}
+
+div.annonce img{
+	border-radius: 100%;
+	size: 50px;
+ }
+
+p.welcome{
+	color:#000;
+	font-weight: bold;
+	font-size: 20px
+}
+
+p.seconde{
+	color:#000;
+}
+
+body{
+	background:url(https://www.factotum.nl/wp-content/uploads/2018/03/Factotum_2018.jpg) no-repeat;
+	background-size: 500px;
+	background-color: #3E3E3E;
+}
+h2.headline{
+	font-size: 50px;
+	padding-left: 100px
+
+}
+
+p.welcome2{
+	color:#000;
+	font-weight: bold;
+	font-size: 45px;
+}
+
+header.coucou{
+	width: 50px;
+	font-size: 25px;
+}
+
+div#content div.annonce{
+	background-color: red;
+	width: 100%;
+	margin:8px ;
+}
+
+
+body.fond{
+	background-color: #51505B;
+	background-size: 500px;
+}
+
+h2.nom{
+	font-size: 25px;
+}
